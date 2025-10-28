@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 /**
- * ダミーサービスクラス
+ * Nexusサービスクラス
  * application.propertiesの設定値を提供する
  */
 @Component
